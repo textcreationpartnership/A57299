@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle from our monethly meeting, at our publick meeting house in Reigate, in Surry, the 7th day of the 9th month, 1692</title>
+            <author>Society of Friends. Reigate Monthly Meeting.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57299</idno>
+            <idno type="STC">Wing R1477</idno>
+            <idno type="STC">ESTC R17179</idno>
+            <idno type="EEBO-CITATION">12599614</idno>
+            <idno type="OCLC">ocm 12599614</idno>
+            <idno type="VID">64137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 675:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle from our monethly meeting, at our publick meeting house in Reigate, in Surry, the 7th day of the 9th month, 1692</title>
+                  <author>Society of Friends. Reigate Monthly Meeting.</author>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At end: Written and signed in the behalf of the said meeting, by Ambrose Rigge.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Surrey --  History --  Sources.</term>
+               <term>Society of Friends. --  Reigate Monthly Meeting.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:64137:1"/>
+            <pb n="1" facs="tcp:64137:1" rendition="simple:additions"/>
+            <head>An Epiſtle From our Monethly Meeting, at our Pub<g ref="char:EOLhyphen"/>lick Meeting-Houſe in <hi>Reigate,</hi> in <hi>Surry,</hi> 
+               <date>the 7th Day of the 9th Month, 1692.</date>
+            </head>
+            <p>WE being aſſembled with one accord in the Unity of the Spirit of Truth, and having a deep and weighty Conſideration upon our Hearts and Spirits, of the Important Affairs of the Church which the Lord hath gathered in theſe parts, and out of the Ways and Works of Darkneſs, to be a People to his praiſe, and to walk as Children of the Day, in all Godly Converſation and Holineſs; for he who hath called us is Holy, and he hath made us li<g ref="char:EOLhyphen"/>vingly ſenſible that without Holineſs of Life and Con<g ref="char:EOLhyphen"/>verſation none can be true Members of the Church of Chriſt, neither is any the Sons or Daughters of God, but as they are led and guided by the Spirit of God, in which all who have continued and walked, have been preſerved out of the Pollutions<g ref="char:punc">▪</g> of the World; and are as Lights among their Neighbours, ſhewing forth before them their good Works, of a Godly, Peaceable and quiet Life, to the Praiſe and Glory of our Heaven<g ref="char:EOLhyphen"/>ly Father; for the Truth as it is in Jeſus (our holy Head, Leader and Governour) is the Life of Righte<g ref="char:EOLhyphen"/>ouſneſs, and freeth all who receives it from all Unrigh<g ref="char:EOLhyphen"/>teouſneſs:
+<pb n="2" facs="tcp:64137:2"/>
+In this is the Children of God in our day manifeſted, from the Children of <hi>Belial:</hi> for whoſo<g ref="char:EOLhyphen"/>ever doth not Righteouſneſs is not of God, neither he who loveth not his Brother and Neighbour; but he who walketh uprightly, and walketh ſurely, and there is no occaſion of ſtumbling in him.</p>
+            <p>And now dearly beloved <hi>Friends,</hi> whom the Lord hath quickened and raiſed up out of the Grave of Sin and Corruption, to be Monuments of his Mercy, walk in the Light of the Lamb; ſo will the Salvation of God be as Walls and Bulworks round about you, to preſerve you from the fear of Evil: Stand ye as Wit<g ref="char:EOLhyphen"/>neſſes for God in your day againſt all Ungodlineſs and worldly Luſts, both amongſt your ſelves, and the World; be ye circumſpect and watchful both over your ſelves, and your Children, and Indulge them not in any thing that is Evil, but timely Reprove and Re<g ref="char:EOLhyphen"/>ſtrain it, leſt it become your Sin; and command them to obſerve the Law of God written in their Hearts; for if you love the Truth, as you ought your ſelves, you will train up your Children in it when they are young; and keep them to the plain and ſound Lan<g ref="char:EOLhyphen"/>guage which the Truth required and led all the Faithful into in the beginning; and keep them in plain and modeſt Apparel and Behaviour, in due ſubjection to the Truth in all things, in an Holy Converſation as much as in you lies, that they may grow up in the Grace of God as Plants of his Renown; this is your Duty the Lord requires it of you, even to watch over your Children, as thoſe that muſt give an Account to God, while they are under your Wings: <hi>Elie</hi>'s not Reſtraining his Sons became his Sin, becauſe he re<g ref="char:EOLhyphen"/>ſtrained
+<pb n="3" facs="tcp:64137:2"/>
+them not, and brought a Curſ<g ref="char:punc">▪</g>s upon his Houſe for ever, 1 <hi>Sam.</hi> 3. 13, 14. Therefore beware of wink<g ref="char:EOLhyphen"/>ing at or neglecting your Childrens Sins, while under your Tuition, but bring them up in the Nurture and Admonition of the Lord, leſt they bring ſhame upon your Houſes, and a Reproach upon your Poſterity, as ſome have already done, by departing from the Coun<g ref="char:EOLhyphen"/>ſel of God, and the Word of his Grace, which would have kept them in the hour of Temptation from the alurements of the Evil one, and ſo have made them<g ref="char:EOLhyphen"/>ſelves a Scorn to Fools, and a Deriſon to them that are round about, and hath opened the Mouthes of Evil men to Blaſpheam the Name of the Lord and his holy Tabernacle; Better had it been for ſuch not to have known the Way of Truth, then thus to turn from the holy Commandment, which is the Lamp of Righte<g ref="char:EOLhyphen"/>ouſneſs to guide our Feet in the Way of Peace.</p>
+            <p>And all <hi>Young Men</hi> and <hi>Maids,</hi> unto whom God hath given the knowledge of his ſaving Truth, be ye So<g ref="char:EOLhyphen"/>ber and Watchful, for many and ſtrong are the aſſaults of the Enemy to overcome you, and to bring you back again into <hi>Egypt's</hi> Bondage: Stand ſtedfaſt in him who hath Called you, being girded with the Truth, that you may be able to Encounter the Enemy of your Souls, which way ſoever he appears, having upon your heads the Helmet of Salvation, and the Breaſt<g ref="char:punc">▪</g> plate of Righteouſneſs, and Shield of Faith, and Sound Judg<g ref="char:EOLhyphen"/>ment, the Spiritual Sword girded about your Loins; In this Armour if you keep, the Enemy cannot touch you. The ſaving Truth which God hath made known in our day, doth Reedeem all who loves and obeys it, from all Evil whatſoever, and out of the Gall
+<pb n="4" facs="tcp:64137:3"/>
+of Bitterneſs and Bond of Iniquity, and ſets free from every Evil Deed, Word and Work, and diſcovers Sin in the Seed, Bud and Root thereof, and gives power to ſlay it there, before it breaks forth into Action; for as it is Inward and Spiritual, it gives an Inward and Spi<g ref="char:EOLhyphen"/>ritual ſight of the Man of Sin in all his Wiles and Temptations in the conception thereof, and arms all who believes in it againſt the Enemy's power, being greater then the Enemy, is able to ſubdue his power in all mankind, and Redeem them from their vain Converſation, making them capable to ſerve, wor<g ref="char:EOLhyphen"/>ſhip and obey the living God, which none can do while they are in the Evil deeds of the world. And neither <hi>Pride, Covetouſneſs, Drunkenneſs, Whoredom, Gluttony, Theft, Murder, Adultery, Idolatry, Hypocriſie,</hi> nor any Ungodlineſs whatſoever can have any power or prevalency over them who keeps the Word of Faith, which is nigh in their Hearts, ſuch are Cloathed with the Armour of Light, and they are able to quench all the fiery Darts of the Enemy of their Souls, and through Faith in the Son of God receives Victory over Death, Hell and the Grave; theſe are Plants of Righte<g ref="char:EOLhyphen"/>ouſneſs in our day, and are daily Watered and Pruned by the Father's the Right hand, and grow up as Trees of Righ<g ref="char:EOLhyphen"/>teouſneſs, the planting of the Lord, bringing forth Fruits in due Seaſon to the praiſe of his Name, who hath called them out of Darkneſs into his marvelous Light.</p>
+            <p>And now I exhort you <hi>Brethren</hi> and <hi>Friends,</hi> in the Name of our Lord Jeſus Chriſt, that you with-draw your ſelves from every <hi>Brother</hi> and <hi>Siſter</hi> who walks diſorderly, and have no fellowſhip with the unfruitful
+<pb n="5" facs="tcp:64137:3"/>
+Works of Darkneſs, but rather in the Authority of Gods Power and Spirit reprove them: And that you keep not Company with <hi>Fornicators,</hi> for ſome are al<g ref="char:EOLhyphen"/>ready turned aſide into <hi>Fornication: If any that is Call<g ref="char:EOLhyphen"/>ed a Friend or a Brother, be a Fornicator, or Covetous, or an Idolater, or a Railer, or a Drunkard, or an Extor<g ref="char:EOLhyphen"/>tioner, with ſuch a one not to Eat;</hi> And if any obey not this Goſpel-Precept, <hi>Note</hi> that Perſon, and have no fellowſhip with him or her, that they may be aſhamed: And if any have fellowſhip or ſociety with ſuch before they Repent, after Friends (in Gods Power and Wiſ<g ref="char:EOLhyphen"/>dom) have given a Teſtimony againſt them, they are to be reproved and teſtified againſt, as out of the Order of the Goſpel, and Practiſe of the Holy Men of God in former Ages. For we cannot expect to ſtand clear as a people before our Enemics, till we have faithfully endeavoured that all our Meetings and Camp may be cleanſed of all Ungodlineſs whatſoever; for God is pure and Holy, and will have a People ſo; and no un<g ref="char:EOLhyphen"/>clean thing or perſon can ſtand in his Court or Pre<g ref="char:EOLhyphen"/>ſence, and in this his glorious Goſpel Day of Life, Light and Glory, the moſt Spiritual Miniſtration, and the Laſt and Greateſt that ever the World ſhall be viſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed withal, which in tender Mercy and Loving-kindneſs he hath cauſed to dawn in us, he will be gloriſied in, by and through us; or without us, and againſt us; for his Name he will Exalt in Righteouſneſs over Nations, and he will overturn and overturn, till he come to whoſe right it is, in the Hearts and Conſciences of the Sons of men.</p>
+            <p>And <hi>dear Friends,</hi> have a care of the Love of the World, and the Riches thereof; do not choke the
+<pb n="6" facs="tcp:64137:4"/>
+good Seed of the Kingdom of Righteouſneſs ſown in you, for the Enemy lies near many in that reſpect, their Care, Labour and Induſtry being more for the Meat that periſheth, then for that which nouriſheth to Eternal Life; and many grows Cold in their Love, Zeal and Affection to thoſe weighty Duties which God requires of us, in meeting often together to wait upon him, to feel the operation of his Divine Power and his Comfortable Preſence which hath often opened Life and the treaſures of it to our Souls; and we have waited upon the Lord, we have renewed our ſtrength, and in meeting often together we have ſelt the Lords preſence in the midſt of us, ſo that we have not ſought his Face in vain; all Holy Praiſes be returned to him for ever<g ref="char:EOLhyphen"/>more.</p>
+            <p>And now <hi>beloved Friends</hi> and <hi>Brethren,</hi> as the Lord in tender Mercy hath called us out of Darkneſs, to be Children of his Goſpel-Day, let us not ſleep as do others. but with girded Loins watch and be ſober, caſt<g ref="char:EOLhyphen"/>ing off all the unfruitful Works of Darkneſs, and put on the Armour of Light, that we may be valient Soul<g ref="char:EOLhyphen"/>diers in the Army of the Lamb, and to be able quench all the Fiery Darts of the Enemy; for of a truth, the Lord is ariſen to ſearch his <hi>Jeruſalem</hi> with Candles, and he will aſſuredly find out the Hypocrite and the Unclean, and him who hath ſaved the Wedge of Gold and the <hi>Babyloniſh</hi> Garment, though never ſo cloſe hid in his Tent; for all things are naked and bare to his All-ſeeing Eye; and wo to him who is covered, and not with the Spirit of the Lord, for he will be left naked to his own Shame to the view of all be<g ref="char:EOLhyphen"/>holders.</p>
+            <p>
+               <pb n="7" facs="tcp:64137:4"/>And all <hi>Young Friends,</hi> both Male and Female, who have believed in the Truth, and are coming up in the World, beware of a Wanton Looſe Spirit, for it will lay you open to many Snares and Temptations, where by you will be betrayed by the Enemy of your Souls into many noiſome Luſts, which will drown you in Perdition, if you give way thereto; but firſt ſeek the Kingdom of God, and the Righteouſneſs thereof, by walking in the Truth that you have believed in, and then all other things needful for you will be given you of God, and the Bleſſing withal, which will make you Rich and add no Sorrow with it: And take heed of ſeeking Lawful things by Unlawful means, for if you ſo obtain them, they will wither under your Hands: And make not haſte to be Rich in this World, nor to lay up great things for your Children, leaſt it prove their Snare and your Sorrow: for ſome of us have been Young, and now are grown Old, yet in all our days we never ſaw the Righteous for<g ref="char:EOLhyphen"/>ſaken, nor his Seed (who hath walked in the Way thereof to the End) begging their Bread; the way to be Happy and Proſperous in this World, and that which is to Come, is firſt to breath after Righteouſ<g ref="char:EOLhyphen"/>neſs, and walk in its Way, though for it you drink a bitter Cup from the Hands of Men, which if you are willing to drink for a time, the ſweet Cup of Bleſſing and Conſolation will be given you of God, who keeps the beſt Wine till laſt, and he will Crown your Gray Hairs with Honour and Immor<g ref="char:EOLhyphen"/>tallity: So let not out your Affections after the fooliſh, vain and frivolous Faſhions and Cuſtoms of this World,
+<pb n="8" facs="tcp:64137:5"/>
+for they will wither as the Graſs, and fade as the Flower thereof. So God Almighty direct your Way, and keep you under the Wing of hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Power, in the pure Religion which keeps Unſpotted of the World, that the honourable Name by which you are called, and in which you have been preſerved, as you have truſt<g ref="char:EOLhyphen"/>ed in it, may be your Rock, Refuge, and Tower to the End of your Dayes; Amen.</p>
+            <closer>
+               <signed>Written and Signed in the behalf of the ſaid Meeting,
+By Ambroſe Rigge.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:64137:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
